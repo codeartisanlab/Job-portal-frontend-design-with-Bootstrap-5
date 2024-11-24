@@ -1,0 +1,53 @@
+.theme-background-dark{
+	background: #1e3a8a;
+}
+
+.theme-background-light{
+	background: #f3f4f6;
+}
+
+.theme-text-dark{
+	color: #1e3a8a;
+}
+
+.theme-button-light{
+	background: #3b82f6;
+}
+
+.theme-button-light:hover{
+	background: #3b82f6;
+	opacity: 0.8;
+}
+
+.theme-button-dark{
+	background: #1e3a8a;
+}
+
+.theme-button-dark:hover{
+	background: #1e3a8a;
+	opacity: 0.8;
+}
+
+.theme-border-light{
+	border: 1px solid #3b82f6;
+}
+
+.theme-icon{
+	color: #1e3a8a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
